@@ -1,0 +1,301 @@
+record_id,patient_id,doctor_id,diagnosis,treatment,record_date
+1,132,8,Cancer,Medication,2025-11-06
+2,90,78,Cancer,Observation,2025-07-09
+3,90,134,Cancer,Surgery,2025-09-06
+4,93,271,Flu,Therapy,2025-02-13
+5,75,79,Migraine,Observation,2025-07-16
+6,122,226,Cancer,Surgery,2025-04-18
+7,296,177,Flu,Therapy,2025-03-01
+8,27,86,Migraine,Observation,2025-09-01
+9,155,244,Cancer,Injection,2025-04-30
+10,195,200,Migraine,Therapy,2025-03-16
+11,272,223,Flu,Therapy,2025-08-18
+12,196,162,Skin Allergy,Medication,2025-02-19
+13,273,182,Migraine,Injection,2025-11-30
+14,140,172,Diabetes,Therapy,2025-02-20
+15,131,300,Migraine,Observation,2025-12-12
+16,124,100,Skin Allergy,Therapy,2025-12-13
+17,93,161,Skin Allergy,Medication,2025-12-11
+18,5,35,Flu,Observation,2025-02-20
+19,269,54,Cancer,Observation,2025-06-29
+20,113,146,Diabetes,Surgery,2025-01-18
+21,13,48,Flu,Injection,2025-12-03
+22,112,63,Cancer,Medication,2025-02-14
+23,67,193,Cancer,Injection,2025-04-05
+24,57,95,Diabetes,Therapy,2025-08-28
+25,39,233,Diabetes,Observation,2025-12-21
+26,166,132,Fracture,Medication,2025-05-22
+27,32,196,Migraine,Therapy,2025-01-31
+28,133,136,Fracture,Observation,2025-02-05
+29,252,103,Skin Allergy,Observation,2025-04-02
+30,252,56,Fracture,Injection,2025-08-09
+31,112,55,Migraine,Therapy,2025-02-22
+32,18,38,Flu,Injection,2025-05-09
+33,229,10,Migraine,Surgery,2025-12-01
+34,1,20,Cancer,Observation,2025-05-17
+35,78,169,Migraine,Injection,2025-01-02
+36,264,252,Migraine,Observation,2025-07-26
+37,36,277,Fracture,Medication,2025-07-16
+38,247,63,Skin Allergy,Injection,2025-07-03
+39,171,156,Migraine,Medication,2025-11-20
+40,47,188,Skin Allergy,Therapy,2025-02-11
+41,236,149,Cancer,Surgery,2025-04-01
+42,284,21,Migraine,Surgery,2025-06-03
+43,200,55,Cancer,Therapy,2025-09-07
+44,44,225,Cancer,Surgery,2025-03-13
+45,19,99,Flu,Injection,2025-05-03
+46,251,200,Flu,Injection,2025-11-26
+47,158,256,Skin Allergy,Observation,2025-01-09
+48,19,174,Flu,Therapy,2025-01-22
+49,208,61,Fracture,Injection,2025-08-23
+50,275,77,Cancer,Injection,2025-04-30
+51,37,19,Cancer,Surgery,2025-09-08
+52,10,242,Skin Allergy,Medication,2025-05-05
+53,67,8,Fracture,Medication,2025-06-07
+54,50,234,Skin Allergy,Surgery,2025-10-30
+55,33,55,Flu,Observation,2025-11-01
+56,113,33,Fracture,Observation,2025-06-22
+57,206,167,Flu,Injection,2025-10-07
+58,71,165,Fracture,Medication,2025-10-31
+59,89,172,Flu,Medication,2025-05-21
+60,73,213,Fracture,Therapy,2025-10-11
+61,85,225,Fracture,Injection,2025-01-21
+62,69,52,Cancer,Injection,2025-07-12
+63,81,9,Migraine,Medication,2025-01-04
+64,4,92,Flu,Injection,2025-05-26
+65,214,244,Cancer,Surgery,2025-04-16
+66,74,139,Skin Allergy,Observation,2025-07-30
+67,123,90,Skin Allergy,Medication,2025-11-02
+68,93,256,Skin Allergy,Medication,2025-11-18
+69,155,179,Migraine,Medication,2025-10-13
+70,121,99,Flu,Injection,2025-02-18
+71,186,277,Skin Allergy,Surgery,2025-08-26
+72,107,142,Flu,Surgery,2025-02-27
+73,77,243,Migraine,Surgery,2025-03-23
+74,23,28,Cancer,Therapy,2025-05-26
+75,108,223,Diabetes,Therapy,2025-11-12
+76,233,23,Flu,Medication,2025-10-03
+77,91,81,Flu,Observation,2025-09-21
+78,60,37,Fracture,Observation,2025-10-31
+79,297,167,Migraine,Surgery,2025-12-13
+80,167,118,Flu,Therapy,2025-04-27
+81,51,122,Cancer,Observation,2025-04-13
+82,193,113,Flu,Observation,2025-10-27
+83,249,28,Migraine,Surgery,2025-04-21
+84,233,92,Migraine,Therapy,2025-03-11
+85,235,100,Cancer,Therapy,2025-05-19
+86,104,172,Fracture,Medication,2025-12-21
+87,292,31,Diabetes,Surgery,2025-02-26
+88,239,235,Migraine,Surgery,2025-06-25
+89,113,152,Skin Allergy,Surgery,2025-11-23
+90,88,296,Skin Allergy,Surgery,2025-02-14
+91,211,268,Migraine,Surgery,2025-10-30
+92,243,237,Diabetes,Medication,2025-08-08
+93,127,127,Diabetes,Observation,2025-10-24
+94,114,77,Skin Allergy,Medication,2025-08-02
+95,23,21,Migraine,Injection,2025-01-18
+96,218,272,Migraine,Observation,2025-12-23
+97,51,232,Migraine,Surgery,2025-02-12
+98,286,7,Cancer,Observation,2025-04-22
+99,68,184,Diabetes,Surgery,2025-11-28
+100,47,9,Migraine,Therapy,2025-03-24
+101,236,293,Cancer,Injection,2025-01-13
+102,233,238,Fracture,Observation,2025-04-05
+103,190,238,Cancer,Medication,2025-11-18
+104,37,198,Cancer,Therapy,2025-09-29
+105,17,152,Migraine,Therapy,2025-12-24
+106,278,295,Fracture,Medication,2025-11-14
+107,172,29,Skin Allergy,Therapy,2025-01-27
+108,57,197,Diabetes,Observation,2025-11-13
+109,21,188,Diabetes,Surgery,2025-11-28
+110,287,35,Skin Allergy,Surgery,2025-03-12
+111,172,123,Skin Allergy,Medication,2025-11-29
+112,245,298,Cancer,Surgery,2025-04-26
+113,165,181,Diabetes,Injection,2025-12-15
+114,217,142,Flu,Medication,2025-07-10
+115,177,232,Migraine,Injection,2025-09-27
+116,63,241,Cancer,Injection,2025-12-14
+117,273,150,Migraine,Injection,2025-07-08
+118,34,97,Migraine,Medication,2025-02-11
+119,201,92,Diabetes,Medication,2025-02-25
+120,85,142,Flu,Surgery,2025-09-12
+121,78,105,Skin Allergy,Medication,2025-05-31
+122,214,278,Fracture,Observation,2025-06-27
+123,216,228,Cancer,Medication,2025-05-30
+124,97,33,Flu,Surgery,2025-09-24
+125,172,211,Skin Allergy,Therapy,2025-12-02
+126,168,249,Skin Allergy,Injection,2025-10-08
+127,228,235,Diabetes,Injection,2025-03-09
+128,157,88,Diabetes,Surgery,2025-09-05
+129,191,148,Flu,Surgery,2025-06-30
+130,146,234,Fracture,Injection,2025-03-24
+131,275,147,Fracture,Surgery,2025-12-29
+132,79,83,Fracture,Medication,2025-01-22
+133,163,295,Fracture,Observation,2025-05-14
+134,190,95,Fracture,Injection,2025-12-29
+135,18,163,Diabetes,Surgery,2025-07-10
+136,230,277,Fracture,Injection,2025-06-04
+137,63,13,Migraine,Observation,2025-03-16
+138,235,164,Fracture,Medication,2025-10-07
+139,260,170,Cancer,Therapy,2025-08-31
+140,149,294,Cancer,Surgery,2025-10-17
+141,227,174,Cancer,Medication,2025-09-03
+142,21,72,Cancer,Injection,2025-03-01
+143,158,13,Migraine,Injection,2025-04-23
+144,229,183,Flu,Therapy,2025-01-29
+145,100,299,Skin Allergy,Surgery,2025-05-23
+146,101,12,Flu,Injection,2025-08-17
+147,45,263,Migraine,Surgery,2025-09-09
+148,163,262,Flu,Therapy,2025-07-23
+149,76,219,Diabetes,Observation,2025-07-10
+150,7,146,Diabetes,Therapy,2025-06-07
+151,229,288,Flu,Surgery,2025-08-16
+152,213,227,Diabetes,Surgery,2025-08-06
+153,213,72,Skin Allergy,Injection,2025-02-14
+154,74,107,Diabetes,Observation,2025-09-26
+155,172,34,Skin Allergy,Observation,2025-02-15
+156,4,210,Cancer,Therapy,2025-08-01
+157,90,285,Migraine,Injection,2025-03-12
+158,103,96,Migraine,Therapy,2025-10-11
+159,252,22,Diabetes,Injection,2025-06-05
+160,253,287,Cancer,Observation,2025-04-25
+161,14,2,Fracture,Therapy,2025-06-03
+162,242,64,Cancer,Therapy,2025-08-02
+163,92,252,Cancer,Surgery,2025-01-15
+164,62,142,Migraine,Medication,2025-11-03
+165,186,298,Migraine,Injection,2025-08-12
+166,133,244,Cancer,Medication,2025-07-11
+167,263,295,Flu,Therapy,2025-03-25
+168,298,30,Fracture,Therapy,2025-08-25
+169,70,183,Fracture,Medication,2025-05-20
+170,185,215,Cancer,Therapy,2025-01-25
+171,149,150,Skin Allergy,Medication,2025-09-21
+172,100,94,Flu,Injection,2025-03-27
+173,279,166,Diabetes,Therapy,2025-05-19
+174,186,50,Skin Allergy,Injection,2025-06-30
+175,74,7,Fracture,Injection,2025-05-25
+176,191,249,Migraine,Therapy,2025-03-25
+177,53,112,Fracture,Injection,2025-04-24
+178,97,287,Skin Allergy,Injection,2025-09-30
+179,283,59,Migraine,Observation,2025-02-09
+180,60,68,Flu,Observation,2025-06-28
+181,160,186,Fracture,Observation,2025-11-02
+182,268,176,Fracture,Therapy,2025-01-15
+183,61,114,Fracture,Surgery,2025-12-19
+184,117,158,Fracture,Surgery,2025-03-08
+185,41,218,Cancer,Medication,2025-02-09
+186,10,248,Migraine,Medication,2025-04-11
+187,56,17,Cancer,Injection,2025-10-31
+188,31,241,Flu,Therapy,2025-01-23
+189,34,155,Cancer,Medication,2025-02-19
+190,64,106,Skin Allergy,Surgery,2025-04-05
+191,180,15,Flu,Surgery,2025-05-23
+192,297,179,Diabetes,Surgery,2025-09-14
+193,124,259,Skin Allergy,Medication,2025-02-20
+194,297,8,Skin Allergy,Surgery,2025-04-09
+195,145,88,Skin Allergy,Medication,2025-02-20
+196,110,259,Cancer,Observation,2025-07-07
+197,95,226,Cancer,Medication,2025-04-03
+198,182,195,Migraine,Surgery,2025-09-21
+199,117,209,Flu,Therapy,2025-03-05
+200,239,57,Skin Allergy,Surgery,2025-09-11
+201,185,148,Skin Allergy,Medication,2025-02-12
+202,168,253,Flu,Observation,2025-05-26
+203,234,160,Cancer,Observation,2025-04-26
+204,284,209,Diabetes,Observation,2025-04-07
+205,36,244,Cancer,Therapy,2025-04-02
+206,7,252,Cancer,Medication,2025-07-22
+207,225,268,Cancer,Medication,2025-03-03
+208,74,203,Migraine,Injection,2025-02-22
+209,87,34,Diabetes,Surgery,2025-06-23
+210,103,207,Flu,Surgery,2025-08-06
+211,256,143,Cancer,Injection,2025-10-31
+212,140,205,Diabetes,Observation,2025-12-08
+213,208,249,Skin Allergy,Therapy,2025-03-17
+214,233,56,Flu,Therapy,2025-09-08
+215,255,119,Cancer,Surgery,2025-01-16
+216,51,28,Flu,Observation,2025-12-14
+217,14,92,Migraine,Injection,2025-12-14
+218,168,79,Diabetes,Injection,2025-11-16
+219,50,40,Cancer,Injection,2025-09-10
+220,239,104,Diabetes,Observation,2025-09-09
+221,259,134,Skin Allergy,Therapy,2025-10-04
+222,280,10,Flu,Observation,2025-03-02
+223,197,231,Diabetes,Observation,2025-08-15
+224,236,19,Flu,Surgery,2025-10-13
+225,156,85,Migraine,Observation,2025-03-10
+226,160,200,Migraine,Medication,2025-10-19
+227,252,284,Cancer,Injection,2025-10-20
+228,241,244,Skin Allergy,Surgery,2025-09-17
+229,29,201,Diabetes,Observation,2025-10-30
+230,194,181,Diabetes,Therapy,2025-02-01
+231,15,24,Fracture,Therapy,2025-06-28
+232,299,14,Cancer,Therapy,2025-07-14
+233,50,220,Diabetes,Therapy,2025-07-30
+234,180,29,Cancer,Surgery,2025-05-07
+235,121,160,Skin Allergy,Medication,2025-12-19
+236,34,157,Flu,Therapy,2025-03-28
+237,11,276,Diabetes,Medication,2025-08-24
+238,217,291,Skin Allergy,Observation,2025-05-17
+239,11,241,Skin Allergy,Medication,2025-06-12
+240,194,293,Migraine,Therapy,2025-10-21
+241,51,251,Flu,Surgery,2025-06-22
+242,255,258,Cancer,Therapy,2025-03-27
+243,154,187,Migraine,Surgery,2025-09-12
+244,39,275,Fracture,Therapy,2025-05-16
+245,25,153,Skin Allergy,Observation,2025-04-26
+246,48,297,Flu,Injection,2025-06-22
+247,140,35,Skin Allergy,Injection,2025-09-01
+248,219,108,Diabetes,Medication,2025-11-30
+249,155,259,Diabetes,Observation,2025-12-06
+250,277,161,Fracture,Observation,2025-07-25
+251,129,264,Migraine,Injection,2025-04-03
+252,10,265,Fracture,Injection,2025-09-13
+253,110,240,Diabetes,Injection,2025-11-11
+254,223,290,Cancer,Medication,2025-09-25
+255,103,187,Migraine,Surgery,2025-05-04
+256,78,154,Migraine,Observation,2025-06-13
+257,33,105,Migraine,Therapy,2025-05-27
+258,83,132,Cancer,Injection,2025-05-01
+259,208,123,Flu,Surgery,2025-04-09
+260,15,126,Diabetes,Observation,2025-09-06
+261,287,224,Migraine,Medication,2025-04-14
+262,82,140,Fracture,Medication,2025-05-13
+263,143,282,Fracture,Medication,2025-09-06
+264,11,29,Flu,Therapy,2025-11-05
+265,153,33,Migraine,Therapy,2025-12-10
+266,47,204,Cancer,Surgery,2025-05-01
+267,58,293,Cancer,Injection,2025-03-03
+268,268,298,Skin Allergy,Therapy,2025-09-12
+269,47,122,Skin Allergy,Medication,2025-06-10
+270,169,300,Cancer,Observation,2025-05-01
+271,217,112,Fracture,Medication,2025-03-31
+272,110,141,Migraine,Observation,2025-05-11
+273,29,252,Skin Allergy,Therapy,2025-12-25
+274,58,163,Skin Allergy,Observation,2025-09-01
+275,127,143,Fracture,Therapy,2025-09-01
+276,189,158,Flu,Injection,2025-01-18
+277,28,123,Diabetes,Injection,2025-07-16
+278,159,186,Cancer,Medication,2025-10-01
+279,122,227,Migraine,Medication,2025-07-21
+280,131,155,Flu,Surgery,2025-06-02
+281,108,83,Migraine,Therapy,2025-11-26
+282,209,18,Diabetes,Medication,2025-09-09
+283,242,212,Diabetes,Observation,2025-02-21
+284,83,134,Skin Allergy,Medication,2025-06-30
+285,216,281,Cancer,Therapy,2025-08-21
+286,15,27,Cancer,Surgery,2025-11-19
+287,228,70,Flu,Observation,2025-04-13
+288,157,161,Skin Allergy,Medication,2025-02-26
+289,81,128,Skin Allergy,Surgery,2025-11-01
+290,211,164,Migraine,Observation,2025-03-10
+291,134,89,Cancer,Injection,2025-06-17
+292,145,102,Flu,Observation,2025-07-08
+293,94,202,Migraine,Injection,2025-04-25
+294,11,12,Skin Allergy,Injection,2025-11-17
+295,118,46,Migraine,Surgery,2025-05-15
+296,87,26,Migraine,Injection,2025-08-08
+297,134,77,Flu,Therapy,2025-03-29
+298,291,61,Flu,Injection,2025-08-11
+299,233,254,Flu,Surgery,2026-01-01
+300,105,98,Diabetes,Therapy,2025-09-11
